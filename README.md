@@ -9,6 +9,7 @@ This repository contains Python scripts for processing GitHub pull request data 
 - **requirements.txt** - Python package dependencies
 
 ## Setup
+Create an AIDev_shared directory at the root, and drag the files from our shared google drive over.
 
 ```bash
 pip install -r requirements.txt
